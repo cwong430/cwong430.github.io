@@ -20,7 +20,7 @@ body {
 	padding-left: 15px;
 	padding-right: 15px;
 	margin: auto;
-	max-width: 600px;
+	max-width: 750px;
 	line-height: 28px;
 }
 
@@ -103,7 +103,7 @@ body {
 .footer hr {
 	margin-left: 0;
 	width: 90%;
-  max-width: 600px;
+  max-width: 750px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -124,7 +124,7 @@ body {
   text-align: justify;
   margin-right: 16px;
 	font-size: 18px;
-	max-width: 600px;
+	max-width: 750px;
 	line-height: 26px;
 }
 
