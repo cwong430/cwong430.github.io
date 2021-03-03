@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Chris Wong</title>
+<link>https://chr.iswong.com/</link>
+<description>A Few Random Thoughts</description>
+
+<item>	
+<title>	The Path</title>	
+<link>https://chr.iswong/thepath.html</link>	
+<guid>	https://chr.iswong/thepath.html</guid>	
+<pubDate>Wed, 3 Mar 2021 18:00:00 GMT</pubDate>	
+<description>The Path</description>	
+</item>
+
+</channel>
+</rss>

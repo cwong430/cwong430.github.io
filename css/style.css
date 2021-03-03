@@ -14,6 +14,16 @@ body {
 	font-family: Noto, Constantia, Palatino, serif;
 }
 
+.body article {
+	font-size: 19px;
+	font-weight: 200;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: auto;
+	max-width: 600px;
+	line-height: 28px;
+}
+
 .wrapper {
 	margin-top: 6%;
 	margin-left: 8%;
@@ -43,7 +53,8 @@ body {
 
 .body, .talks, {
 	margin-top: 2em;
-  margin-bottom: 2em;
+	margin-bottom: 2em;
+	font-size: 12px;
 }
 
 .pins {
