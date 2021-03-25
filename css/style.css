@@ -42,10 +42,10 @@ body {
 }
 
 .body article {
-	width: 87.5%;
-	margin-left: 5%;
+	width: 95%;
+	margin-left: 2.5%;
 	margin-right: auto;
-	padding-left: 5%;
+	padding-left: 2.5%;
 	max-width: 800px;
 	counter-reset: sidenote-counter;
 
